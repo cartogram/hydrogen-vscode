@@ -1,8 +1,8 @@
 {
   "name": "hydrogen-vscode",
-  "displayName": "@shopify/hydrogen VSCode Integration",
+  "displayName": "hydrogen for VSCode",
   "description": "VSCode integration for use when building @shopify/hydrogen custom storefronts",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "publisher": "crtogrm",
   "icon": "HydrogenLogo.png",
   "license": "MIT",
@@ -12,6 +12,10 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartogram/hydrogen-vscode.git"
+  },
   "contributes": {
     "snippets": [
       {

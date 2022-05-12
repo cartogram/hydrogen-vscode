@@ -1,6 +1,8 @@
-# Hydrogen VSCode Snippets
+# Hydrogen VSCode
 
-## `usq`
+## Snippets
+
+### `usq`
 
 Use `useShopQuery()`
 
@@ -8,7 +10,7 @@ Use `useShopQuery()`
 const { data } = useShopQuery({ query: QUERY });
 ```
 
-## `sq`
+### `sq`
 
 New Storefront query
 
@@ -22,7 +24,7 @@ const QUERY = gql`
 `;
 ```
 
-## `imph`
+### `imph`
 
 Import from hydrogen
 
@@ -30,7 +32,7 @@ Import from hydrogen
 import {...} from '@shopify/hydrogen';
 ```
 
-## `hp`
+### `hp`
 
 New Hydrogen page
 
